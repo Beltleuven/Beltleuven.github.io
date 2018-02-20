@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Belt nederlands juist",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -808,7 +808,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>DROOMCOACH</b><br> De knowhow en de connecties bij ACT Research van Jarne Kaag zijn van onschatbare waarde geweest bij het opstarten van onze onderneming. Dankzij zijn goede raad en de snelle levering van de buckles hebben we het productieproces kunnen optimaliseren. We hopen dat we ook in de toekomst op hem kunnen blijven beroep doen. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\">ACT Research</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT Research</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/248745637-261x193.jpg",
@@ -825,7 +825,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>WEMAR CARS</b><br>Wemar Cars, een autokerkhof in Alken, is een andere grote leverancier van oude gordels. Via hen kregen we een rol van 200 meter autogordels mee. De medewerkers waren heel enthousiast over ons project en vonden het vooral erg origineel. Ze beloofden om ons ook in de toekomst te helpen. Hun waardering en enthousiasme gaf ons een enorme boost. Enorm bedankt van ons allemaal!!&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\">Wemar Cars</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wemar Cars</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/248745637-261x193.jpg",
@@ -2134,7 +2134,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "De metalen buckle van de Belt-riem wordt geproduceerd in het buitenland door een dochteronderneming<br> van de autogarage ACT Research.<br><br>Eerst worden alle onderdelen uit een metalen plaat gesneden. Vervolgens worden de verschillende stukken<br> zorgvuldig gevouwen en samengesteld tot onze Buckle. Bij de afwerking worden de gespen eerst grondig <br>opgeschuurd waarna ze hun eindkleur krijgen.<br><br>Door het gebruik van poedercoating en kwaliteitslak is de buckle roestvrij en kleurvast.&nbsp;<br> ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\">ACT Research</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACT Research</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1.png-beltj-2-1647x789.png",
@@ -2151,7 +2151,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en <br>autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\">Autokerkhof Wemar Cars</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autokerkhof Wemar Cars</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1.-beltj-1645x789.png",
