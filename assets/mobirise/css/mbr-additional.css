@@ -3625,6 +3625,27 @@ body {
 .cid-qJPiKD2aRh .team-item .item-caption {
   background: #efefef;
 }
+.cid-qL3MtIa8CZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qL3MtIa8CZ .image-block {
+  margin: auto;
+}
+.cid-qL3MtIa8CZ figcaption {
+  position: relative;
+}
+.cid-qL3MtIa8CZ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qL3MtIa8CZ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qJP71zMTSm .navbar {
   padding: .5rem 0;
   background: #020000;
