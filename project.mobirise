@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Belt nederlands juist",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2440,7 +2440,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1.png-beltj-2-1647x789.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2450,14 +2450,14 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "2) Op maat knippen",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en <br>autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autokerkhof Wemar Cars</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1.-beltj-1645x789.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -2467,7 +2467,7 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "3) Afwerking van de Belt",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Eerst branden we de zijkant af om uitrafelen tegen te gaan en optimale stevigheid te garanderen. \n<br>In een tweede fase stikken we twee gordels van gelijke lengte aan elkaar om de gewenste dikte te verkrijgen. De buitenranden <br>werken we af met biaislint. De laatste stap bestaat uit het bevestigen van een riemklem aan de uiteindes van de riem.&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
@@ -2481,7 +2481,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Team",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
