@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Belt nederlands juist",
-    "currentPage": "page13.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1144,7 +1144,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>Autodemontage Van Boxtel</b><br>Hier in Nederland mochten we zelf autogordels gaan uit snijden. We zijn heel dankbaar voor hun enthousiasme en vriendelijkheid!&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"http://www.act-research.be/index.php/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage Van Boxtel</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://www.autodemontagevanboxtel.nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage Van Boxtel</a> "
               }
             ]
           }
@@ -2440,7 +2440,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1.png-beltj-2-1647x789.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2453,11 +2453,11 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "Eerst recupereren we autogordels uit afgedankte autowrakken bij garages, autodemonteurs en <br>autokerkhoven. Vervolgens snijden we de gordels op maat zowel in de lengte als in de breedte. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autokerkhof Wemar Cars</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"http://www.wemarcars.be/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autokerkhof Wemar Cars</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://www.autodemontagevanboxtel.nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Autodemontage Van Boxtel</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1.-beltj-1645x789.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
