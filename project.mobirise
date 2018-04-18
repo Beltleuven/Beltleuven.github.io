@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Belt nederlands juist",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
       ]
     },
     "versionFirst": "4.6.4",
-    "uniqCompNum": 83,
+    "uniqCompNum": 84,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2440,7 +2440,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1skyi-1645x791.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2474,7 +2474,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/producite-1646x790.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
